@@ -4,7 +4,7 @@
 # Este modulo tiene reportes personalizados para Guatemala.
     
 #
-# Status 1.0 - tested on Open ERP 7.0
+# Status 1.0 - tested on Open ERP 8.0
 #
 
 {
